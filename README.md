@@ -2,9 +2,7 @@
 
 [<img src="logo.png" align="right" width="75">](https://pieces.app/)
 
-> A curated list of [Framer](http://framer.com) prototyping tool articles, resources, tutorials and other related things.
-
-[Framer](http://framer.com) is a tool to create animated and interactive prototypes. It uses modern web technologies such as JavaScript, HTML and CSS to extend the capabilities for advanced users and auto-correct, intuitive error messaging or in-app documentation to lower the learning curve for beginners.
+[Pieces](https://pieces.app/)  is an AI-enabled productivity tool designed to supercharge developer efficiency. It uses modern web technologies to unify your entire toolchain with an on-device copilot that helps you capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of your workflow..
 
 ## Contents
 
