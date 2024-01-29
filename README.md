@@ -16,23 +16,46 @@
 * [Curated snippet collection](#curated-snippet-collection)
 * [Languages supported](#languages-supported)
 * [Social accounts and community links](#social-accounts-and-community-links)
-* [Other](#other)
+* [AMAs](#amas)
+* [Community Feedback](#community-feedback)
+* [Product updates](#product-updates)
+* [Common issues](#common-issues)
+* [Contribute](#contribute)
+* [Show your support](#show-your-support)
+* [License](#license)
 
 ---
 
 ## General
-* [Official Site](http://framer.com)
-* [Official Examples](http://framer.com/examples)
-* [Documentation](http://framer.com/docs)
-* [Facebook Group](https://www.facebook.com/groups/framerjs/)
+* [Official Site](https://pieces.app/)
+* [Official blog](https://code.pieces.app/blog)
+* [Documentation]((https://docs.pieces.app/))
+* [Discord](https://discord.gg/getpieces)
+* [News](https://news.pieces.app/)
 
 ## Installation
-* [Designer / coder, and not the other way around](https://medium.com/road-to-infinity/designer-coder-and-not-the-other-way-around-4288098986e1#.a1ks034fn) - Paul Cotton talks how he started using Framer.
-* [Why Framer.js Matters](https://medium.com/@drocarmo/why-framer-js-matters-93eb1206e606#.846k6rca6) - Pedro Carmo on why Framer is a tool designers should start using.
+Download the Pieces for Developers Desktop App and Pieces OS:
+* For [macOS](https://docs.pieces.app/installation-getting-started/macos)
+* For [Windows](https://docs.pieces.app/installation-getting-started/windows)
+* For [Linux](https://docs.pieces.app/installation-getting-started/linux)
 
 ## Plugins and Extensions
-* [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY) - Koen Bok and Jorn van Dijk give a short talk and Q&A focused on Framer that also covers prototyping in general and a discussion of the various design tools available in the market.
-* [FORM SF 2014: Panel - Design Tooling](https://www.youtube.com/watch?v=gX0n4JUl18g) - Discussion between creators of popular design tools (including Koen Bok from Framer) on the value of prototyping, lessons learned in crafting products for designers, and the future of UX tools.
+**IDE Plugins**
+* [JetBrains Suite](https://plugins.jetbrains.com/plugin/17328-pieces--save-search-share--reuse-code-snippets)
+* [VS Code](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode)
+* [JupyterLab](https://docs.pieces.app/extensions-plugins/jupyterlab)
+* [Azure Data Studio](https://docs.pieces.app/extensions-plugins/azuredatastudio)
+
+**Browser Extensions**
+* [Google Chrome](https://chromewebstore.google.com/detail/pieces-save-code-snippets/igbgibhbfonhmjlechmeefimncpekepm?hl=en&pli=1)
+* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/pieces-save-code-from-the-web/)
+* [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/pieces-save-code-snippet/hglfimcdgonaeeobjckfdabcldfidmim)
+* [Brave](https://chromewebstore.google.com/detail/pieces-save-code-snippets/igbgibhbfonhmjlechmeefimncpekepm?hl=en&pli=1)
+* [Opera](https://chromewebstore.google.com/detail/pieces-save-code-snippets/igbgibhbfonhmjlechmeefimncpekepm?hl=en&pli=1)
+
+**Productivity Tools**
+* [Obsidian](https://obsidian.md/plugins?id=pieces-for-developers)
+* [Microsoft Teams](https://docs.pieces.app/extensions-plugins/teams)
 
 ## Articles
 * [Framer.js Official Basics](http://framerjs.com/learn/basics) - The place to start prototyping with Framer.
