@@ -33,11 +33,13 @@
 * [Discord](https://discord.gg/getpieces)
 * [News](https://news.pieces.app/)
 
+
 ## Installation
 Download the Pieces for Developers Desktop App and Pieces OS:
 * For [macOS](https://docs.pieces.app/installation-getting-started/macos)
 * For [Windows](https://docs.pieces.app/installation-getting-started/windows)
 * For [Linux](https://docs.pieces.app/installation-getting-started/linux)
+
 
 ## Plugins and Extensions
 **IDE Plugins**
@@ -57,29 +59,15 @@ Download the Pieces for Developers Desktop App and Pieces OS:
 * [Obsidian](https://obsidian.md/plugins?id=pieces-for-developers)
 * [Microsoft Teams](https://docs.pieces.app/extensions-plugins/teams)
 
-## Articles
-* [Framer.js Official Basics](http://framerjs.com/learn/basics) - The place to start prototyping with Framer.
-* [Framer Video Tutorials](https://www.youtube.com/playlist?list=PL9p5auxyrweMB6JVO24jFvW4NZufHacjz) - Video tutorials provided directly from Framer team.
-* [New to Framer? Just 3 Things to Get You Started](https://medium.com/@designforhuman/new-to-framer-just-3-things-to-get-you-started-47397f27c71e#.uk7q8mqts) - David Lee’s guide to get started.
-* [Framer.js for people who think things like Framer.js are weird and hard](https://medium.com/@sean_mateer/framer-js-for-people-who-think-things-like-framer-js-are-weird-and-hard-add2068c8114#.epx95tg0t) - Sean Mateer makes weird and hard things look easy.
-* [Prototyping & Working with Framer](http://humaan.com/prototyping-with-framer/) - Simple guide to getting started by Dan Moore.
-* [Prototyping with Framer.js](http://blog.tackmobile.com/article/prototyping-framer-js/) - Framer basics by Tackmobile team.
-* [Getting Started with Framer](http://www.cutandfold.co/blog/2015/9/7/making-you-first-framer-prototype) - Very basic Framer starting guide by Andrew Nalband.
-* [Building Your First Prototype](http://www.cutandfold.co/blog/2015/9/8/building-your-first-prototype) - Second guide by Andrew Nalband, where you start building real prototype from Sketch file.
-* [Creating Your First Prototype with Framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668#.3jcem1x61) - Animation tutorial by Kenny Chen.
-* [Framer.js Workshop](http://codepen.io/collection/nRzzaZ/) - Collection of Framer examples by [Jay Stakelon](https://twitter.com/stakelon).
-* [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
-* [Periscope Heart Animation Demo at the Seattle FramerJS Meetup](https://www.youtube.com/watch?v=qFUXxqzZytU) - Presentation by [Jordan Dobson](https://twitter.com/jordandobson) on how to create Periscope heart animation with Framer.
-* [Using Parse to power up your Framer prototypes](https://medium.com/facebook-design/using-parse-to-power-up-your-framer-prototypes-88cb87009d00#.8noe6r2wb) - Using Framer with real data Part 1 by George Kedenburg III.
-* [Give your Framer prototypes a better memory](https://medium.com/facebook-design/give-your-framer-prototypes-a-better-memory-212b26e0f934#.6ws4983e7) - Using Framer with real data Part 2 by George Kedenburg III.
-* [Working with SVG Paths in Framer](https://medium.com/framer-prototyping/working-with-svg-paths-in-framer-43d3c2d08adc) - Starting point for SVG Paths in Framer by Josh Puckett.
-* [Managing Styles and CSS in Framer](http://martenbjork.com/2016/05/managing-styles-and-css-in-framer/) - Mårten Björk on styles management in Framer.
-* [Developing a Framer Module](https://medium.com/bpxl-craft/developing-a-framer-module-dbf6a7d6ffc9#.ju0gck7hd) - John Marstall teaches how to create a Framer Module.
-* [Prototyping for Virtual Reality using Framer JS](https://uxdesign.cc/vr-based-viewmaster-in-framer-js-72858df6570f#.r8ylyzbks) - Excerpts of some interaction considerations Keyur Jain learned of while prototyping for a Virtual Reality experience in Framer.
-* [Prototyping Speech Recognition in Framer.js](https://medium.com/framer-prototyping/prototyping-speech-recognition-in-framer-js-9cbbbd01757#.dkwuowqwy) - Brian Bailey gives a breaf introduction to speach recognition prototyping in Framer.
-* [Power your Framer prototypes with real location data](https://www.mapbox.com/blog/power-framer-prototype-with-mapbox/) - Maya Gao on Framer prototypes with real location data using Mapbox API.
-* [How to Create High‑Quality GIFs](https://framer.com/blog/posts/how-to-create-high-quality-gifs) - How to Create High‑Quality GIFs, our guide to making amazing GIFs with some of our favorite tools: ScreenFlow and Claquette.
 
+## Articles
+* [Revolutionizing Development Workstreams: Pieces for Developers Copilot, the Ultimate Developer Workstream Assistant](https://code.pieces.app/blog/revolutionizing-development-workstreams)
+* [How to Store Code Snippets (and 10x your Developer Productivity)](https://code.pieces.app/blog/how-to-store-code-snippets-and-10x-your-developer-productivity)
+* [GitHub Copilot vs ChatGPT vs Tabnine: A Comprehensive Feature Comparison with Pieces](https://code.pieces.app/blog/github-copilot-vs-chatgpt-vs-tabnine-feature-comparison)
+* [Becoming an AI-powered Enterprise: Pieces CEO Tsavo Knott Shares His Vision](https://code.pieces.app/blog/becoming-an-ai-powered-enterprise)
+* [Local Large Language Models (LLLMs) and Copilot Integrations](https://code.pieces.app/blog/local-large-language-models-lllms-and-copilot-integrations)
+
+  
 ## Videos
 * [Mobile App Prototyping: Designing Custom Interactions](https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545) - 50-minute Skillshare class on how to use mobile app prototyping to communicate your ideas and execute your vision by [Noah Levin](https://twitter.com/nlevin).
 * [Framerjs: Innovative prototyping and design with interaction](https://www.udemy.com/framerjs-prototyping-design-interaction-animation/?couponCode=FRAMER) - 54 parts, 6 hours course by [Adria Jimenez](https://twitter.com/ajimix).
