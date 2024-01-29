@@ -13,9 +13,9 @@
 * [Videos](#videos)
 * [Tutorials](#tutorials)
 * [User Stories](#user-stories)
-* [Modules](#modules)
-* [UI Libraries](#ui-libraries)
-* [Sites](#sites)
+* [Curated snippet collection](#curated-snippet-collection)
+* [Languages supported](#languages-supported)
+* [Social accounts and community links](#social-accounts-and-community-links)
 * [Other](#other)
 
 ---
@@ -79,7 +79,7 @@
 * [HSL Color Picker](http://share.framerjs.com/ft0uwf1jweid/) - HSL Color Picker by Framer team.
 * [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) - iOS Toggle using Color class by [Jorn van Dijk](https://twitter.com/jornvandijk).
 
-## Modules
+## Curated snippet collection
 * [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes.
 * [tabBarModule](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
 * [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
