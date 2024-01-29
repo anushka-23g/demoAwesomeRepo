@@ -7,12 +7,12 @@
 ## Contents
 
 * [General](#general)
+* [Installation](#installation)
+* [Plugins and Extensions](#plugins-and-extensions)
 * [Articles](#articles)
 * [Videos](#videos)
 * [Tutorials](#tutorials)
-* [Video Course](#video-courses)
-* [Books](#books)
-* [Examples](#examples)
+* [User Stories](#user-stories)
 * [Modules](#modules)
 * [UI Libraries](#ui-libraries)
 * [Sites](#sites)
@@ -26,15 +26,15 @@
 * [Documentation](http://framer.com/docs)
 * [Facebook Group](https://www.facebook.com/groups/framerjs/)
 
-## Articles
+## Installation
 * [Designer / coder, and not the other way around](https://medium.com/road-to-infinity/designer-coder-and-not-the-other-way-around-4288098986e1#.a1ks034fn) - Paul Cotton talks how he started using Framer.
 * [Why Framer.js Matters](https://medium.com/@drocarmo/why-framer-js-matters-93eb1206e606#.846k6rca6) - Pedro Carmo on why Framer is a tool designers should start using.
 
-## Videos
+## Plugins and Extensions
 * [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY) - Koen Bok and Jorn van Dijk give a short talk and Q&A focused on Framer that also covers prototyping in general and a discussion of the various design tools available in the market.
 * [FORM SF 2014: Panel - Design Tooling](https://www.youtube.com/watch?v=gX0n4JUl18g) - Discussion between creators of popular design tools (including Koen Bok from Framer) on the value of prototyping, lessons learned in crafting products for designers, and the future of UX tools.
 
-## Tutorials
+## Articles
 * [Framer.js Official Basics](http://framerjs.com/learn/basics) - The place to start prototyping with Framer.
 * [Framer Video Tutorials](https://www.youtube.com/playlist?list=PL9p5auxyrweMB6JVO24jFvW4NZufHacjz) - Video tutorials provided directly from Framer team.
 * [New to Framer? Just 3 Things to Get You Started](https://medium.com/@designforhuman/new-to-framer-just-3-things-to-get-you-started-47397f27c71e#.uk7q8mqts) - David Lee’s guide to get started.
@@ -57,7 +57,7 @@
 * [Power your Framer prototypes with real location data](https://www.mapbox.com/blog/power-framer-prototype-with-mapbox/) - Maya Gao on Framer prototypes with real location data using Mapbox API.
 * [How to Create High‑Quality GIFs](https://framer.com/blog/posts/how-to-create-high-quality-gifs) - How to Create High‑Quality GIFs, our guide to making amazing GIFs with some of our favorite tools: ScreenFlow and Claquette.
 
-## Video Courses
+## Videos
 * [Mobile App Prototyping: Designing Custom Interactions](https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545) - 50-minute Skillshare class on how to use mobile app prototyping to communicate your ideas and execute your vision by [Noah Levin](https://twitter.com/nlevin).
 * [Framerjs: Innovative prototyping and design with interaction](https://www.udemy.com/framerjs-prototyping-design-interaction-animation/?couponCode=FRAMER) - 54 parts, 6 hours course by [Adria Jimenez](https://twitter.com/ajimix).
 * [Prototyping with Framer](http://www.sketchcasts.net/episodes/prototyping-with-framer-part-1) - Three-part prototyping course by [Rafael Conde](https://twitter.com/rafahari).
@@ -70,11 +70,11 @@
 * [designers.how Framer Courses](https://designers.how/topics/framer) - List of basic and more advanced Framer courses.
 * [Framer Studio for Beginners: A Comprehensive Guide](https://www.youtube.com/playlist?list=PLIZVb6Yuw91yGUNbSNEHvWWHkdol6SJUW) - Series of videos that walk you through designing and coding in Framer using hands-on projects by [Cordova Putra](https://twitter.com/cordova)
 
-## Books
+## Tutorials
 * [CoffeeScript for Framer](http://coffeescript-for-framerjs.com) by [Tessa Thornton](https://twitter.com/tessthornton)
 * [The Framer book](https://framerbook.com) by [Tes Mat](https://twitter.com/cptv8)
 
-## Examples
+## User Stories
 * [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/10/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
 * [HSL Color Picker](http://share.framerjs.com/ft0uwf1jweid/) - HSL Color Picker by Framer team.
 * [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) - iOS Toggle using Color class by [Jorn van Dijk](https://twitter.com/jornvandijk).
