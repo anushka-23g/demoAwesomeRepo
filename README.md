@@ -21,10 +21,9 @@
 * [Curated snippet collection](#curated-snippet-collection) 📦
 * [Podcasts](#podcasts) 😎
 * [AMAs](#amas)
-* [Community Feedback](#community-feedback) 😍
+* [Open source by Pieces](#open-source-by-pieces) 😍
 * [Product updates](#product-updates)
-* [Common issues](#common-issues)
-* [Contribute](#contribute)
+* [Product support](#product-support)
 * [Show your support](#show-your-support)
 * [License](#license)
 
