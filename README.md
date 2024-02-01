@@ -1,6 +1,6 @@
 # Awesome Pieces [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="logo.png" align="right" width="75">](https://pieces.app/)
+[<img src="logonew.png" align="right" width="75">](https://pieces.app/)
 
 
 > A curated list of [Pieces](https://pieces.app/) resources, plugins and extensions, articles, communities, tutorials and other related things.
