@@ -2,6 +2,10 @@
 
 [<img src="logo.png" align="right" width="75">](https://pieces.app/)
 
+
+> A curated list of [Pieces](https://pieces.app/) resources, plugins and extensions, articles, communities, tutorials and other related things.
+
+
 [Pieces](https://pieces.app/)  is an AI-enabled productivity tool designed to supercharge developer efficiency. It uses modern web technologies to unify your entire toolchain with an on-device copilot that helps you capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of your workflow..
 
 ## Contents
