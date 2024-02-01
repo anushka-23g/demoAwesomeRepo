@@ -69,21 +69,29 @@ Download the Pieces for Developers Desktop App and Pieces OS:
 
   
 ## Videos
-* [Mobile App Prototyping: Designing Custom Interactions](https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545) - 50-minute Skillshare class on how to use mobile app prototyping to communicate your ideas and execute your vision by [Noah Levin](https://twitter.com/nlevin).
-* [Framerjs: Innovative prototyping and design with interaction](https://www.udemy.com/framerjs-prototyping-design-interaction-animation/?couponCode=FRAMER) - 54 parts, 6 hours course by [Adria Jimenez](https://twitter.com/ajimix).
-* [Prototyping with Framer](http://www.sketchcasts.net/episodes/prototyping-with-framer-part-1) - Three-part prototyping course by [Rafael Conde](https://twitter.com/rafahari).
-* [Rapid Prototyping with Framer](https://player.oreilly.com/videos/9781771374620) - 5-hour long prototyping course by [Kenny Chen](https://twitter.com/kennycheny).
-* [Prototyping With Framer.js](https://generalassemb.ly/education/prototyping-with-framerjs) - On-location course instructed by [Jay Stakelon](https://twitter.com/stakelon), [Noah Levin](https://twitter.com/nlevin) and [Cemre Güngör](https://twitter.com/gem_ray).
-* [UI Prototyping with Framer.js](https://www.pluralsight.com/courses/ui-prototyping-framer-js) - Almost 5 hours long course by [Jay Stakelon](https://twitter.com/stakelon).
-* [Framercasts](http://www.framercasts.com/) - Advance your Framer knowledge with real world examples produced by [Mike Johnson](https://twitter.com/failsafedesign).
-* [Framer for UX Design](https://www.lynda.com/FramerJS-tutorials/UX-Design-Tools-Framer/562923-2.html) - Emmanuel Henri shows both how to use non-coding Framer tools and how the usage of programming fits into the UX design process.
-* [Framer Crash Course](https://www.youtube.com/playlist?list=PLWlUJU11tp4f41p4dzizVkjjTQ38kA0wG) - Crash course learning the basics of design and code on Framer.
-* [designers.how Framer Courses](https://designers.how/topics/framer) - List of basic and more advanced Framer courses.
-* [Framer Studio for Beginners: A Comprehensive Guide](https://www.youtube.com/playlist?list=PLIZVb6Yuw91yGUNbSNEHvWWHkdol6SJUW) - Series of videos that walk you through designing and coding in Framer using hands-on projects by [Cordova Putra](https://twitter.com/cordova)
+* [Meet Pieces for Developers | The Ultimate Code Snippet and Workflow Context Manager](https://www.youtube.com/watch?v=jqHomwNISVE)
+* [Getting Started with Code Snippets | Pieces for Developers](https://www.youtube.com/watch?v=Y5Y-TJz-hBw)
+* [Share Code with a Shareable Link | Visual Studio Code Extension](https://www.youtube.com/watch?v=Y5Y-TJz-hBw)
+* [Extract Code from Screenshot | Pieces for Developers Desktop App](https://www.youtube.com/watch?v=cmsFiaOSlHY)
+* [Pieces for Developers VS Code Extension: Persisted Copilot Chats](https://www.youtube.com/watch?v=F_Pbos9DAyI)
+* [Obsidian + Pieces for Developers Copilot & Workflow Activity](https://www.youtube.com/watch?v=rWm_VMOhaNk)
+* [Introducing Pieces Copilot - The Most Contextual Al Copilot for Developer Workflows](https://www.youtube.com/watch?v=BwPdotK4Dr4)
+* Power Tips🔥
+    *[Backtrack through your Workflow with Activity View](https://www.youtube.com/watch?v=xYrIFGytOm4&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6)
+    *[Connect your Personal Cloud](https://www.youtube.com/watch?v=vN9zIYl1x90&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=2)
+    *[Extract Code from Screenshot](https://www.youtube.com/watch?v=cmsFiaOSlHY&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=3)
+    *[Supercharge Pieces with Pieces Plugins](https://www.youtube.com/watch?v=Pog8HiW0JZo&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=5)
+    *[Snippet Context Metadata View](https://www.youtube.com/watch?v=bOhoPaPTcF4&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=6)
+    *[Edit & Transform a Snippet](https://www.youtube.com/watch?v=0nc2YAkAbYU&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=7)
+    *[Discover Snippets in Local Projects](https://www.youtube.com/watch?v=lIFJQGyptCc&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=8)
+
+
 
 ## Tutorials
-* [CoffeeScript for Framer](http://coffeescript-for-framerjs.com) by [Tessa Thornton](https://twitter.com/tessthornton)
-* [The Framer book](https://framerbook.com) by [Tes Mat](https://twitter.com/cptv8)
+* [Saving Code Snippets & Screenshots, Deep Context with ML, Quick Edits with LLMs and More](https://www.youtube.com/watch?v=JNzOqPSa78o)
+* [Search, Reference, and Reuse Key Workflow Materials with our Desktop App & IDE Plugins!](https://www.youtube.com/watch?v=ZKAxhHvTjyo)
+* [Demo Session](https://www.youtube.com/watch?v=qX7tujc5q2Y)
+* [Copilot Integrations Throughout Your Workflow](https://www.youtube.com/watch?v=K-gzgCgxSBg)
 
 ## User Stories
 * [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/10/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
