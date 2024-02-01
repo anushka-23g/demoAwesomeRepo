@@ -16,11 +16,10 @@
 * [Articles](#articles) 📰
 * [Videos](#videos) 🎥
 * [Tutorials](#tutorials)
-* [Social accounts and community links](#social-accounts-and-community-links) 😎
+* [Social accounts and community links](#social-accounts-and-community-links) 🤝
 * [User Stories](#user-stories)
 * [Curated snippet collection](#curated-snippet-collection) 📦
-* [Podcasts](#podcasts)
-* [Social accounts and community links](#social-accounts-and-community-links)🤝
+* [Podcasts](#podcasts) 😎
 * [AMAs](#amas)
 * [Community Feedback](#community-feedback) 😍
 * [Product updates](#product-updates)
