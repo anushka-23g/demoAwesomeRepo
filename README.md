@@ -109,7 +109,7 @@ Download the Pieces for Developers Desktop App and Pieces OS:
 * [More user stories](https://code.pieces.app/user-stories)
 
 ## Curated snippet collection
-  Whether you’re learning a new language or you’ve been coding in a framework for years, our team has curated collections of the most useful snippets   for you. Save a collection of code snippets to Pieces with these links below:
+  Whether you’re learning a new language or you’ve been coding in a framework for years, our team has curated collections    of the most useful snippets for you. Save a collection of code snippets to Pieces with these links below:
 
 * [Typescript Snippets](https://code.pieces.app/collections/typescript) 
 * [SQL Code Snippets](https://code.pieces.app/collections/sql)
@@ -143,6 +143,28 @@ Download the Pieces for Developers Desktop App and Pieces OS:
     * [Simple Copilot in TS](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example)  
     * [Example Typescript Playground](https://github.com/pieces-app/example-ts)  
 We would love to hear from you, you can do this by contributing to this repository!
+
+
+## Product updates
+Check out our latest product updates and features with our [Release Notes](https://code.pieces.app/updates)
+Our recent releases:
+* [Gemini Support, Search Quick Filters, More Accessible Support, and more](https://code.pieces.app/updates/gemini-support-search-quick-filters-more-accessible-support-and-more-pieces-for-developers-292-pieces-os-720)
+* [Even More Pieces Copilot Features](https://code.pieces.app/updates/even-more-pieces-copilot-features-pieces-for-developers-jetbrains-extension-711)
+* [Pieces Copilot is your Development Superpower](https://code.pieces.app/updates/pieces-copilot-is-your-development-superpower-pieces-for-developers-290-pieces-os-710)
+
+
+## Product Support
+We encourage you to take a look at our extensive documentation to find quick solutions and assistance [here](https://docs.pieces.app/support).
+
+## Show your support
+We are a small and passionate team of developers building an amazing suite of products for developer productivity and to augment existing workflows. Whether you've had a positive or negative experience with a Pieces for Developers product, we want to hear from you. Please leave us a private review on what you think about our products, as any bit of feedback helps us on our mission. Or, tell the world about your love for Pieces via our public pages:
+* [G2 Reviews](https://www.g2.com/products/pieces-for-developers/reviews#reviews)
+* [Google Chrome Marketplace](https://chrome.google.com/webstore/detail/pieces-save-code-snippets/igbgibhbfonhmjlechmeefimncpekepm)
+* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode)
+* [Jetbrains IntelliJ Marketplace](https://plugins.jetbrains.com/plugin/17328-pieces--save-search-share--reuse-code-snippets)
+* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/pieces-save-code-from-the-web/)
+* [Edge](https://microsoftedge.microsoft.com/addons/detail/pieces-save-code-snippet/hglfimcdgonaeeobjckfdabcldfidmim)
+
 
 ---
 
