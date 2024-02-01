@@ -19,7 +19,7 @@
 * [Social accounts and community links](#social-accounts-and-community-links) 😎
 * [User Stories](#user-stories)
 * [Curated snippet collection](#curated-snippet-collection) 📦
-* [Languages supported](#languages-supported)
+* [Podcasts](#podcasts)
 * [Social accounts and community links](#social-accounts-and-community-links)🤝
 * [AMAs](#amas)
 * [Community Feedback](#community-feedback) 😍
