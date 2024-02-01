@@ -18,11 +18,11 @@
 * [Tutorials](#tutorials)
 * [Social accounts and community links](#social-accounts-and-community-links) 😎
 * [User Stories](#user-stories)
-* [Curated snippet collection](#curated-snippet-collection)
+* [Curated snippet collection](#curated-snippet-collection) 📦
 * [Languages supported](#languages-supported)
-* [Social accounts and community links](#social-accounts-and-community-links)
+* [Social accounts and community links](#social-accounts-and-community-links)🤝
 * [AMAs](#amas)
-* [Community Feedback](#community-feedback)
+* [Community Feedback](#community-feedback) 😍
 * [Product updates](#product-updates)
 * [Common issues](#common-issues)
 * [Contribute](#contribute)
@@ -34,14 +34,14 @@
 ## General
 * [Official Site](https://pieces.app/)
 * [Official blog](https://code.pieces.app/blog)
-* [Documentation](https://docs.pieces.app/)
+* [Documentation](https://docs.pieces.app/) 📖
 * [Discord](https://discord.gg/getpieces)
-* [News](https://news.pieces.app/)
+* [News](https://news.pieces.app/) 📰
 
 
 ## Installation
 Download the Pieces for Developers Desktop App and Pieces OS:
-* For [macOS](https://docs.pieces.app/installation-getting-started/macos)
+* For [macOS](https://docs.pieces.app/installation-getting-started/macos) 
 * For [Windows](https://docs.pieces.app/installation-getting-started/windows)
 * For [Linux](https://docs.pieces.app/installation-getting-started/linux)
 
