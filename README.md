@@ -10,13 +10,13 @@
 
 ## Contents
 
-* [General](#general)
+* [General](#general) 📘
 * [Installation](#installation)
-* [Plugins and Extensions](#plugins-and-extensions)
-* [Articles](#articles)
-* [Videos](#videos)
+* [Plugins and Extensions](#plugins-and-extensions) 🔌
+* [Articles](#articles) 📰
+* [Videos](#videos) 🎥
 * [Tutorials](#tutorials)
-* [Social accounts and community links](#social-accounts-and-community-links)
+* [Social accounts and community links](#social-accounts-and-community-links) 😎
 * [User Stories](#user-stories)
 * [Curated snippet collection](#curated-snippet-collection)
 * [Languages supported](#languages-supported)
