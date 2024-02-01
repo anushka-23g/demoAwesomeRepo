@@ -79,6 +79,7 @@ Download the Pieces for Developers Desktop App and Pieces OS:
 * [Pieces for Developers VS Code Extension: Persisted Copilot Chats](https://www.youtube.com/watch?v=F_Pbos9DAyI)
 * [Obsidian + Pieces for Developers Copilot & Workflow Activity](https://www.youtube.com/watch?v=rWm_VMOhaNk)
 * [Introducing Pieces Copilot - The Most Contextual Al Copilot for Developer Workflows](https://www.youtube.com/watch?v=BwPdotK4Dr4)
+
 * Power Tips🔥  
     * [Backtrack through your Workflow with Activity View](https://www.youtube.com/watch?v=xYrIFGytOm4&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6)  
     * [Connect your Personal Cloud](https://www.youtube.com/watch?v=vN9zIYl1x90&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=2)  
