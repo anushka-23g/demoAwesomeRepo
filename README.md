@@ -29,7 +29,7 @@
 ## General
 * [Official Site](https://pieces.app/)
 * [Official blog](https://code.pieces.app/blog)
-* [Documentation]((https://docs.pieces.app/))
+* [Documentation](https://docs.pieces.app/)
 * [Discord](https://discord.gg/getpieces)
 * [News](https://news.pieces.app/)
 
