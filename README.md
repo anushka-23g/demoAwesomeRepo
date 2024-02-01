@@ -12,6 +12,7 @@
 * [Articles](#articles)
 * [Videos](#videos)
 * [Tutorials](#tutorials)
+* [Social accounts and community links](#social-accounts-and-community-links)
 * [User Stories](#user-stories)
 * [Curated snippet collection](#curated-snippet-collection)
 * [Languages supported](#languages-supported)
@@ -59,7 +60,6 @@ Download the Pieces for Developers Desktop App and Pieces OS:
 * [Obsidian](https://obsidian.md/plugins?id=pieces-for-developers)
 * [Microsoft Teams](https://docs.pieces.app/extensions-plugins/teams)
 
-
 ## Articles
 * [Revolutionizing Development Workstreams: Pieces for Developers Copilot, the Ultimate Developer Workstream Assistant](https://code.pieces.app/blog/revolutionizing-development-workstreams)
 * [How to Store Code Snippets (and 10x your Developer Productivity)](https://code.pieces.app/blog/how-to-store-code-snippets-and-10x-your-developer-productivity)
@@ -67,7 +67,6 @@ Download the Pieces for Developers Desktop App and Pieces OS:
 * [Becoming an AI-powered Enterprise: Pieces CEO Tsavo Knott Shares His Vision](https://code.pieces.app/blog/becoming-an-ai-powered-enterprise)
 * [Local Large Language Models (LLLMs) and Copilot Integrations](https://code.pieces.app/blog/local-large-language-models-lllms-and-copilot-integrations)
 
-  
 ## Videos
 * [Meet Pieces for Developers | The Ultimate Code Snippet and Workflow Context Manager](https://www.youtube.com/watch?v=jqHomwNISVE)
 * [Getting Started with Code Snippets | Pieces for Developers](https://www.youtube.com/watch?v=Y5Y-TJz-hBw)
@@ -85,130 +84,65 @@ Download the Pieces for Developers Desktop App and Pieces OS:
     * [Edit & Transform a Snippet](https://www.youtube.com/watch?v=0nc2YAkAbYU&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=7)  
     * [Discover Snippets in Local Projects](https://www.youtube.com/watch?v=lIFJQGyptCc&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=8)  
 
-
-
 ## Tutorials
 * [Saving Code Snippets & Screenshots, Deep Context with ML, Quick Edits with LLMs and More](https://www.youtube.com/watch?v=JNzOqPSa78o)
 * [Search, Reference, and Reuse Key Workflow Materials with our Desktop App & IDE Plugins!](https://www.youtube.com/watch?v=ZKAxhHvTjyo)
 * [Demo Session](https://www.youtube.com/watch?v=qX7tujc5q2Y)
 * [Copilot Integrations Throughout Your Workflow](https://www.youtube.com/watch?v=K-gzgCgxSBg)
 
+## Social accounts and community links
+* [Discord](https://discord.com/invite/getpieces)
+* [Youtube](https://www.youtube.com/@getpieces)
+* [Twitter X](https://twitter.com/getpieces)
+* [LinkedIn](https://www.linkedin.com/company/getpieces)
+* [TikTok](https://www.tiktok.com/@getpieces)
+* [Pieces Community](https://docs.pieces.app/community)
+* [Dev.to](https://dev.to/get_pieces/)
+* [Hashnode](https://pieces.hashnode.dev/)
+* [Facebook](https://facebook.com/getpieces)
+
 ## User Stories
-* [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/10/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
-* [HSL Color Picker](http://share.framerjs.com/ft0uwf1jweid/) - HSL Color Picker by Framer team.
-* [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) - iOS Toggle using Color class by [Jorn van Dijk](https://twitter.com/jornvandijk).
+* [Mobile App Development User Stories - Samuel Vulakh](https://www.youtube.com/watch?v=x6ggieb7znU&list=PL3ufX1Aqkp16AcWfUBJfeB1NYx0aRAT8z) 
+* [Pieces Backend User Story - Alvin Juline](https://www.youtube.com/watch?v=JZDV3gEGowY&list=PL3ufX1Aqkp16AcWfUBJfeB1NYx0aRAT8z&index=2)
+* [Student Developer User Story - Kyle Goben](https://www.youtube.com/watch?v=0n_gco5n7nI&list=PL3ufX1Aqkp16AcWfUBJfeB1NYx0aRAT8z&index=3)
+* [iOS App Developer User Story - Dan O'Leary Unlisted](https://www.youtube.com/watch?v=AgMRNpNRO8g&list=PL3ufX1Aqkp16AcWfUBJfeB1NYx0aRAT8z&index=4)
+* [More user stories](https://code.pieces.app/user-stories)
 
 ## Curated snippet collection
-* [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes.
-* [tabBarModule](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
-* [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
-* [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification.
-* [Framer-Grid](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
-* [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier.
-* [framer.placehold](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services.
-* [FramerNavigationComponent](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS.
-* [RippleTransition.framer](https://github.com/offirg75/framer.RippleTransition) - Framer Module for a Material design like ripple transition.
-* [framer-icon](https://github.com/peteschaffner/framer-icon) - Framer dynamically tinted icons based off of a template image.
-* [framer.makeGradient](https://github.com/cupofjoakim/framer.makeGradient) - Module for Framer that makes it easy to create static linear/radial gradients. Want them to animate? I welcome pull requests.
-* [WatchKit-Framer](https://github.com/ajimix/WatchKit-Framer) - Apple Watch Kit module for Framer.
-* [Framer-AudioPlayer](https://github.com/benjaminnathan/Framer-AudioPlayer) - AudioPlayer Module for Framer.
-* [Framer-VideoPlayer](https://github.com/stakes/Framer-VideoPlayer) - Video player module for Framer Studio and Framer.
-* [Framer-Module-ShakeEvent](https://github.com/RayPS/Framer-Module-ShakeEvent) - ShakeEvent Module for Framer.
-* [Framer-Module-UISound](https://github.com/RayPS/Framer-Module-UISound/) - UISound Module for Framer.
-* [CameraLayer](https://github.com/ktcy/CameraLayer) - Framer layer displaying camera image.
-* [ios-keyboard-for-framer](https://github.com/supsupmo/ios-keyboard-for-framer) - iOS Keyboard module for Framer.
-* [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) - Framer module that simplifies the process of adding text to your prototypes.
-* [Kinetics](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload.
-* [framer-flip-card-module](https://github.com/aboutjax/framer-flip-card-module) - Framer module to quickly create a flip card effect with two image layers.
-* [Input-Framer](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs.
-* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to create scroll components with sticky stamps in Framer.
-* [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - Module for Framer to handle device orientation events.
-* [ScaleFrame](https://github.com/joshmtucker/ScaleFrame) - Module for Framer to calculate properties of a scaled layer using its new dimensions.
-* [framer-label](https://github.com/peteschaffner/framer-label) - Label module with multi-line truncation support for Framer.
-* [framer-equally-rotate-images](https://github.com/aboutjax/framer-equally-rotate-images) - Give this module an array of images, and it will rotate them equally around in a circular path.
-* [framer-colour-transition](https://github.com/nickmangos/framer-colour-transition) - Framer module that transitions the background colour of a layer.
-* [framer-webview](https://github.com/peteschaffner/framer-webview) - Web view module for Framer.
-* [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer.
-* [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer.
-* [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer.
-* [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis.
-* [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes.
-* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
-* [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project.
-* [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype.
-* [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
-* [VRComponent](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer.
-* [3D Touch Module](http://jrdn.io/dO4r) - Module for iOS 3D Touch support by [Jordan Dobson](https://twitter.com/jordandobson).
-* [Simple Android Ripple](https://github.com/imaaronjames/Simple-Android-Ripple) - Framer module for adding touch ripple animations to any layer.
-* [Simple Android Keyboards](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code.
-* [Simple Android Toast](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects.
-* [Simple Android Snackbar](https://github.com/imaaronjames/Simple-Android-Snackbar) - Framer module for adding Android Material Design Snackbars to your project.
-* [Framer Path](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually.
-* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization.
-* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization.
-* [framer-Firebase](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
-* [spotifyApiFramer](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API.
-* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
-* [Gridddle](https://github.com/Volorf/Gridddle) - Grid module for FramerJS.
-* [SliderLibrary](https://github.com/floludwig/SliderLibrary) - Framer library for creating sliders.
-* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components.
-* [framer-view-stack](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other.
-* [RemoteLayer](https://github.com/bpxl-labs/RemoteLayer) - The RemoteLayer module allows you to instantly generate an interactive Apple TV remote for your tvOS app prototypes.
-* [distribute-layers](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease.
-* [Framer-ValueLayer](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them.
-* [perspective-view](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype.
-* [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer.
-* [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects.
-* [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
-* [Framer StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes.
-* [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style.
-* [lottie-framer](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
-* [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype.
-* [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients.
-* [FocusEngine](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku.
-* [MapboxLayer](https://github.com/bpxl-labs/MapboxLayer) - Module for creating powerful Mapbox maps in your prototypes.
-* [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer.
-* [FramerAudio](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
-* [Framer Slider](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
-* [iOS-11-Framer](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer.
-* [framer-Symbols](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer.
-* [framer-moreutils](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions.
-* [framer keyboardEvents](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.
-* [Framer Joystick](https://github.com/emilwidlund/framer-joystick) - Module for Gamepad-driven UI prototypes.
-* [Framer Feedback](https://github.com/aboutjax/Framer-Feedback) - Framer feedback module makes it easier for you to prototype with feedback messages.
-* [Framer-Bottom-Navigation](https://github.com/johnmpsherwin/Framer-Bottom-Navigation) - Framer Module to add Android's Bottom Navigation to your project.
-* [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) - A Framer module that adds a rotation button to a phone/tablet when said is displayed in a desktop browser or in Framer Studio (but not on device).
-* [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - A module that allows you to easily manage keyboard input.
-* [Framer DesignComponents](https://github.com/sebcglbailey/framer-DesignComponents) - Module for converting your designs in design mode into full scalable classes in code, without a single line of code!.
-* [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) - A Framer module that provides better audio support for your Framer projects.
-* [Framer Status Bar Module](https://github.com/walnuttea/statusBar-module) - Module to initialize a status bar in a Framer application.
-* [Framer Android Picker](https://github.com/johnmpsherwin/Framer-Android-Picker) - An Android Picker Module.
-* [Yummy Framer](https://github.com/janwagner/yummyFramer) - Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.  
-* [Framer Font Loader](https://github.com/steveruizok/fontloader) - Painlessly, reliably load local and web fonts into Framer prototypes.
-* [Framer Form](https://github.com/emilwidlund/framer-form) - Give your Framer prototypes a third dimension.
-* [FramerMapboxJS](https://github.com/NocheVolta/FramerMapboxJS) - Another module to integrate Mapbox maps on your Framer prototypes.
+  Whether you’re learning a new language or you’ve been coding in a framework for years, our team has curated collections of the most useful snippets   for you. Save a collection of code snippets to Pieces with these links below:
 
+* [Typescript Snippets](https://code.pieces.app/collections/typescript) 
+* [SQL Code Snippets](https://code.pieces.app/collections/sql)
+* [Dart Code Samples](https://code.pieces.app/collections/dart)
+* [Python Code Snippets](https://code.pieces.app/collections/python) 
+* [Node.js Code Snippets](https://code.pieces.app/collections/node-js)
+* [JavaScript Snippets](https://code.pieces.app/collections/javascript)
 
+## Podcasts
+* [Building Pieces.app and the Future of Developer Productivity with Tsavo Knott](https://softwareengineeringdaily.com/2023/10/25/building-pieces-app-and-the-future-of-developer-productivity-with-tsavo-knott/)
+* [Increasing Dev Performance: KPIs, AI, and Bottlenecks](https://dzone.com/events/video-library/Increasing-Dev-Performance-KPIs-AI-and-Bottlenecks)
+* [Redefining Developer Workflow with Pieces.App's Tsavo Knott](https://www.hanselminutes.com/913/redefining-developer-workflow-with-piecesapps-tsavo-knott)
+* [Solving Software Developer Challenges with AI - with Tsavo Knott](https://podcast.emerj.com/solving-software-developer-challenges-with-ai-with-tsavo-knott-of-pieces)
 
-## UI Libraries
-* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11.
-* [Framework](https://github.com/steveruizok/framework) - A general-purpose component kit for Framer.
+## AMAs
+* [Open Source AMA Introduction](https://www.youtube.com/watch?v=_0wDBYBwJQ0)
+* [Pieces Copilot AMA](https://www.youtube.com/watch?v=3Wpwuu4YJow&list=PL3ufX1Aqkp142aggjHCeKx9IVF-fC7WmP)
+* [Persisted Copilot AMA](https://www.youtube.com/watch?v=_Wy6IOdhCsA&list=PL3ufX1Aqkp147t9d-B3HizYHzMnyBcSQH)
+* [Local LLMs & Integrations AMA](https://www.youtube.com/watch?v=uffdhd4EkWA&list=PL3ufX1Aqkp1679bM0ahsEw70OZQPu3P69)
 
-## Sites
-* [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.
-* [Framer Code](http://framerco.de) - Collection of Framer modules, code examples, snippets and tips.
+## Open Source by Pieces
+* [Open Source by Pieces: Meet the Contributors](https://www.youtube.com/watch?v=UFuenvaxHew)
+* [Open Source by Pieces Meetup #2](https://code.pieces.app/blog/pieces-open-source-meetup-2)
+* [Open Source by Pieces - Livestream Q&A](https://www.youtube.com/watch?v=0AmuWaFoTdY)
 
-## Other
-* [framer-modules](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place.
-* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow.
-* [Stitch](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
-* [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment.
-* [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.
-* [Voyage](https://framer.com/voyage/) - A free travel-themed UI kit that’s fully interactive and made for Framer.
-* [iOS Kit](https://framer.com/assets/static/downloads/kits/ios-kit.zip) - Readymade elements for starting your next iOS app. Direct link.
-* [Android Kit](https://framer.com/assets/static/downloads/kits/android-kit.zip) - Material Design elements for your next Android app. Direct link.
-* [Web Kit](https://framer.com/assets/static/downloads/kits/web-kit.zip) - All the elements you’ll need to start your next web project. Direct link.
-* [Wireframe Kit](https://framer.com/assets/static/downloads/kits/wireframe-kit.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
+* Here are some of our Pieces SDKs:
+    * [DartSDK](https://github.com/pieces-app/pieces-os-client-sdk-for-dart)  
+    * [KotlinSDK](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin)  
+    * [PythonSDK](https://github.com/pieces-app/pieces-os-client-sdk-for-python)  
+    * [TypescriptSDK](https://github.com/pieces-app/pieces-os-client-sdk-for-python)  
+    * [Simple Copilot in TS](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example)  
+    * [Example Typescript Playground](https://github.com/pieces-app/example-ts)  
+We would love to hear from you, you can do this by contributing to this repository!
 
 ---
 
