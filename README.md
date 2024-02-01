@@ -76,14 +76,14 @@ Download the Pieces for Developers Desktop App and Pieces OS:
 * [Pieces for Developers VS Code Extension: Persisted Copilot Chats](https://www.youtube.com/watch?v=F_Pbos9DAyI)
 * [Obsidian + Pieces for Developers Copilot & Workflow Activity](https://www.youtube.com/watch?v=rWm_VMOhaNk)
 * [Introducing Pieces Copilot - The Most Contextual Al Copilot for Developer Workflows](https://www.youtube.com/watch?v=BwPdotK4Dr4)
-* Power Tips🔥
-    *[Backtrack through your Workflow with Activity View](https://www.youtube.com/watch?v=xYrIFGytOm4&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6)
-    *[Connect your Personal Cloud](https://www.youtube.com/watch?v=vN9zIYl1x90&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=2)
-    *[Extract Code from Screenshot](https://www.youtube.com/watch?v=cmsFiaOSlHY&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=3)
-    *[Supercharge Pieces with Pieces Plugins](https://www.youtube.com/watch?v=Pog8HiW0JZo&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=5)
-    *[Snippet Context Metadata View](https://www.youtube.com/watch?v=bOhoPaPTcF4&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=6)
-    *[Edit & Transform a Snippet](https://www.youtube.com/watch?v=0nc2YAkAbYU&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=7)
-    *[Discover Snippets in Local Projects](https://www.youtube.com/watch?v=lIFJQGyptCc&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=8)
+* Power Tips🔥  
+    * [Backtrack through your Workflow with Activity View](https://www.youtube.com/watch?v=xYrIFGytOm4&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6)  
+    * [Connect your Personal Cloud](https://www.youtube.com/watch?v=vN9zIYl1x90&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=2)  
+    * [Extract Code from Screenshot](https://www.youtube.com/watch?v=cmsFiaOSlHY&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=3)  
+    * [Supercharge Pieces with Pieces Plugins](https://www.youtube.com/watch?v=Pog8HiW0JZo&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=5)  
+    * [Snippet Context Metadata View](https://www.youtube.com/watch?v=bOhoPaPTcF4&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=6)  
+    * [Edit & Transform a Snippet](https://www.youtube.com/watch?v=0nc2YAkAbYU&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=7)  
+    * [Discover Snippets in Local Projects](https://www.youtube.com/watch?v=lIFJQGyptCc&list=PL3ufX1Aqkp140GBZVnnFFnjO-o2QL3TI6&index=8)  
 
 
 
