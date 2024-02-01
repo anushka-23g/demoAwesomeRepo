@@ -1,4 +1,4 @@
-# Awesome Pieces <img src="logonew.png" align="right" width="75" text="Awesome">
+# Awesome Pieces <img src="awesome.png" align="right" width="75" text="Awesome">
 
 [<img src="logonew.png" align="right" width="75">](https://pieces.app/)
 
